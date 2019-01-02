@@ -1,0 +1,5 @@
+js_example:
+  js:
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
